@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fb20607.css",
+    "main.js": "/static/js/main.cf6416b0.js",
+    "static/js/787.cc16781c.chunk.js": "/static/js/787.cc16781c.chunk.js",
+    "static/media/snow-video.mp4": "/static/media/snow-video.19585e8ed203b71e1b25.mp4",
+    "static/media/broken clouds-video.mp4": "/static/media/broken clouds-video.9870107b15863a40f5b4.mp4",
+    "static/media/scattered clouds-video.mp4": "/static/media/scattered clouds-video.982b53ac49b2512ecf3a.mp4",
+    "static/media/thunderstorm-video.mp4": "/static/media/thunderstorm-video.ecd06f9b279d07c2f4b3.mp4",
+    "static/media/clear-video.mp4": "/static/media/clear-video.649de5131241cf6bd70f.mp4",
+    "static/media/rain-video.mp4": "/static/media/rain-video.af63b947ea8d861e45bb.mp4",
+    "static/media/few clouds-video.mp4": "/static/media/few clouds-video.98185ed8b5cd48677503.mp4",
+    "static/media/mist-video.mp4": "/static/media/mist-video.3b1f7a1c69602599a304.mp4",
+    "static/media/img3.jpg": "/static/media/img3.81984bc9a6b34d8f0440.jpg",
+    "static/media/cooling-symbol-3340.svg": "/static/media/cooling-symbol-3340.783eef39b8729cc51047f40d57f5f190.svg",
+    "static/media/thermometer-1829.svg": "/static/media/thermometer-1829.d94b52d6be16e87f4a633a29aa464050.svg",
+    "static/media/humidity-svgrepo-com.svg": "/static/media/humidity-svgrepo-com.1b628b0ec753e3df1e33120f61431f25.svg",
+    "static/media/reshot-icon-weather.svg": "/static/media/reshot-icon-weather.cc1b7f0f6c9a0f85b76c06a4b07f4a8c.svg",
+    "index.html": "/index.html",
+    "main.5fb20607.css.map": "/static/css/main.5fb20607.css.map",
+    "main.cf6416b0.js.map": "/static/js/main.cf6416b0.js.map",
+    "787.cc16781c.chunk.js.map": "/static/js/787.cc16781c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb20607.css",
+    "static/js/main.cf6416b0.js"
+  ]
+}
