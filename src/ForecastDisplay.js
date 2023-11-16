@@ -10,7 +10,7 @@ import rainVideo from './assets/rain-video.mp4';
 import thunderstormVideo from './assets/thunderstorm-video.mp4';
 import snowVideo from './assets/snow-video.mp4';
 import mistVideo from './assets/mist-video.mp4';
-import WeatherForm from './WeatherForm'; // Import WeatherForm component
+//import WeatherForm from './WeatherForm'; // Import WeatherForm component
 //import VideoPlayer from "react-background-video-player";
 //import unknownVideo from './assets/unknown-video.mp4';
 
