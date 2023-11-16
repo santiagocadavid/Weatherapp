@@ -1,0 +1,108 @@
+.general-title{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.title-enter{
+    padding-bottom: 1em;
+    text-align: center;
+    font-weight: bolder;
+
+
+}
+
+.title-forecast{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    
+    font-weight: bolder;
+}
+
+
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.card-hover:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.03);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+
+
+.weatherIcons{
+  width: 30%;
+  padding: 1em;
+  
+
+}
+
+.main-card{
+  position: relative;
+  display: block;
+  margin: auto;
+  padding: 10px;
+
+}
+
+.main-card-city{
+  text-align: center;
+  padding: 1em;
+
+}
+
+.footer{
+  background-color: #a0b7a7;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  /*position:fixed;*/
+  bottom:0;
+  width:100%;
+}
+
+.social-icons {
+  margin-bottom: 10px;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.social-icons a:hover {
+  color: #245a7a;
+}
+
+.name-footer{
+  padding: 0.5em;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.spinner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.spinner {
+  margin-bottom: 10px;
+}
+
+.loading-message {
+  font-size: 30px;
+}
